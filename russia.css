@@ -3,4 +3,5 @@
 }
 .inline-block {
     display: inline-block;
+    padding: 10px;
 }
