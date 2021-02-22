@@ -20,3 +20,12 @@ li {
     margin-left: 0px;
   }
 }
+@media screen and (max-width: 768px) {
+.countrylist {
+  display: flex;
+  flex-direction: column;
+  }
+  .left {
+    margin-left: 0px;
+  }
+}
