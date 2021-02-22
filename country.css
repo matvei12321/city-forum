@@ -15,4 +15,8 @@ li {
 .countrylist {
   display: flex;
   flex-direction: column;
+  }
+  .left {
+    margin-left: 0px;
+  }
 }
