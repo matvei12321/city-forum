@@ -21,8 +21,8 @@ li {
 }
 @media screen and (max-width: 768px) {
 .countrylist {
-  flex-direction: column;
-  flex-direction: row;
+  display: grid;
+grid-template-columns: repeat(3, 1fr);
   }
   .left {
     margin-left: 0px;
