@@ -22,7 +22,7 @@ li {
 @media screen and (max-width: 768px) {
 .countrylist {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   }
   .left {
     margin-left: 0px;
