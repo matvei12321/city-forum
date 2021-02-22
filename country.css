@@ -27,3 +27,11 @@ li {
     margin-left: 0px;
   }
 }
+@media screen and (max-width: 1024px) {
+.countrylist {
+  flex-direction: column;
+  }
+  .left {
+    margin-left: 0px;
+  }
+}
