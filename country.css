@@ -28,12 +28,3 @@ li {
     margin-left: 0px;
   }
 }
-@media screen and (max-width: 1024px) {
-.countrylist {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  }
-  .left {
-    margin-left: 0px;
-  }
-}
