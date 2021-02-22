@@ -22,6 +22,7 @@ li {
 @media screen and (max-width: 768px) {
 .countrylist {
   flex-direction: column;
+  align-content: flex-start
   }
   .left {
     margin-left: 0px;
