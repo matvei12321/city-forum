@@ -23,6 +23,7 @@ li {
 .countrylist {
   flex-direction: column;
   flex-direction: row;
+  width: 50%;
   }
   .left {
     margin-left: 0px;
