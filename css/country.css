@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   left: 50px;
-  right: 50px;
 }
 .left {
   margin-left: 40px;
