@@ -39,5 +39,9 @@
   margin: 0 auto;
   background-color: #000;
 }
-.alfavit{text-decoration: underline;color:#30B026;letter-spacing: 2px;float:left;width:15px;}
-.alfavit:hover{color:black;font-size: 20px;text-decoration: none;letter-spacing: 2px;}
+hr {
+    border: none; /* Убираем границу */
+    background-color: #ccc; /* Цвет линии */
+    color: #ccc; /* Цвет линии для IE6-7 */
+    height: 1px; /* Толщина линии */
+   }
