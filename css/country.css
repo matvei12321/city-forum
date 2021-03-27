@@ -1,7 +1,6 @@
 .countrylist {
   display: flex;
-  flex-direction: column;
-  left: 50px;
+  padding: 0 30px;
 }
 .left {
   margin-left: 40px;
