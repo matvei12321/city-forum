@@ -1,31 +1,12 @@
 .countrylist {
-  display: flex;
+  display: grid;
   padding: 0 30px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 20px;
+  grid-auto-flow: dense;
 }
 ul{
   padding: 0;
 }
-.left {
-  margin-left: 40px;
-}
 li {
     list-style-type: none;
-  margin-left: -40px;
-   }
-@media screen and (max-width: 480px) {
-.countrylist {
-  flex-direction: column;
-  }
-  .left {
-    margin-left: 0px;
-  }
-}
-@media screen and (max-width: 768px) {
-.countrylist {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  }
-  .left {
-    margin-left: 0px;
-  }
-}
