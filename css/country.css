@@ -8,9 +8,6 @@ ul{
 .left {
   margin-left: 40px;
 }
-.pages {
-  word-break:break-all;
-}
 li {
     list-style-type: none;
   margin-left: -40px;
