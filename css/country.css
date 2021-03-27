@@ -9,7 +9,7 @@ ul{
   margin-left: 40px;
 }
 .pages {
-  clear:both;
+  word-break:break-all;
 }
 li {
     list-style-type: none;
