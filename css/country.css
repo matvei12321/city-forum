@@ -8,6 +8,9 @@ ul{
 .left {
   margin-left: 40px;
 }
+.pages {
+  clear:both;
+}
 li {
     list-style-type: none;
   margin-left: -40px;
