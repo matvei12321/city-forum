@@ -1,7 +1,6 @@
 .countrylist {
   position: absolute;
-  display: row;
-  flex-direction: column;
+  display: flex;
   left: 50px;
   right: 50px;
 }
